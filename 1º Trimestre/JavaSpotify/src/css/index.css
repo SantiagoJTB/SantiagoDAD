@@ -1,0 +1,55 @@
+.flex{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.cover{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+
+}
+
+.c{
+    width: 200px;
+    height: 200px;
+}
+
+.vinyl {
+    width: 180px;
+    height: 180px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.detail{
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.label{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+
+}
+
+.cover1{
+    background-image: url("../assets/images/cover1.jpg");
+    background-size: cover;
+}
+
+.cover2{
+    background-image: url("../assets/images/cover2.jpg");
+    background-size: cover;
+}
+
+.cover3{
+    background-image: url("../assets/images/cover3.jpg");
+    background-size: cover;
+}

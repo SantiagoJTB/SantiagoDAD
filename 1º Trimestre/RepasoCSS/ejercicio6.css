@@ -1,0 +1,21 @@
+table{
+    text-align: center;
+    border: 1px solid black;
+    width: 200px;
+    border-collapse:collapse;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+td,tr{
+    text-align: left;
+    border: 1px solid black;
+}
+
+#temp{
+    text-align: center;
+
+}
